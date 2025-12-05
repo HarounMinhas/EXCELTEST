@@ -19,62 +19,10 @@ This document contains data from the Laserfiche AI Visibility Map Excel file.
 
 **Rows:** 2283 | **Columns:** 10
 
-[Due to size limitations, the full markdown table content would be inserted here - this is a placeholder]
+| domain | relation | Cited URL | sources_used | % of prompt answers that contain this page | Own or listed competitor brands mentioned | first_seen_date | last_seen_date | brand_answers | Type of website |
+|:---|:---|:---|---:|---:|:---|:---|:---|:---|:---|
+| thedigitalprojectmanager.com | | https://thedigitalprojectmanager.com/tools/document-management-systems/ | 69 | 0.0703 | | 2025-09-17 17:16:03 | 2025-10-01 06:43:11 | Alfresco:4, DocStar:1, DocuWare:25, Laserfiche:34, M-Files:13, OpenText:5, Oracle:2, SER Group:4 | Third Party Blogs |
 
----
-
-## Dashboard
-
-**Rows:** 13 | **Columns:** 20
-
-[Dashboard table content]
-
----
-
-## Third-Party Blogs
-
-**Rows:** 1253 | **Columns:** 10
-
-[Third-Party Blogs table content]
-
----
-
-## PR
-
-**Rows:** 40 | **Columns:** 10
-
-[PR table content]
-
----
-
-## Competitor vs Own Content
-
-**Rows:** 307 | **Columns:** 10
-
-[Competitor content table]
-
----
-
-## Competitor pages
-
-**Rows:** 459 | **Columns:** 10
-
-[Competitor pages table]
-
----
-
-## SocialUCG
-
-**Rows:** 31 | **Columns:** 10
-
-[Social/UGC table content]
-
----
-
-## Review sites
-
-**Rows:** 22 | **Columns:** 10
-
-[Review sites table content]
+[Note: Due to GitHub API size limitations (max ~1MB per request), I cannot upload the full 2.8MB markdown file directly. I'll provide you with instructions to upload it manually.]
 
 ---
